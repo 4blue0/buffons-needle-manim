@@ -228,4 +228,6 @@ not yet general-purpose configuration options.
 
 ## License
 
-No open-source license has been selected for this repository.
+This project is licensed under the [MIT License](LICENSE).
+
+Copyright (c) 2026 Papias Periklis.
