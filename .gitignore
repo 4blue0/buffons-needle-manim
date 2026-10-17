@@ -1,0 +1,28 @@
+# Local Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Manim output and machine-specific configuration
+media/
+manim.cfg
+*.mp4
+*.mov
+*.webm
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Local credentials
+.env
+.env.*
+!.env.example
