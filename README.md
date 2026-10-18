@@ -7,6 +7,19 @@ The presentation is written for **Manim Community 0.19.0**, using the Cairo
 renderer. It contains an introduction, the crossing rule, three example needle
 positions, a probability derivation, and a 10,000-drop simulation.
 
+## Video Preview
+
+[![Final simulation frame showing 10,000 drops, 5,145 crossings, and an estimate of pi of 3.10982](assets/preview.png)](https://github.com/4blue0/buffons-needle-manim/releases/tag/v1.0.0)
+
+**[Download the full presentation (MP4, 33.1 MB)](https://github.com/4blue0/buffons-needle-manim/releases/download/v1.0.0/FullScene.mp4)**
+
+The silent video runs for approximately 4 minutes 58 seconds at 1080p and
+approximately 60 FPS. No Manim installation is needed to watch it. The image
+above is a frame from the supplied finished render.
+
+The video is hosted as a [GitHub Release attachment](https://github.com/4blue0/buffons-needle-manim/releases/tag/v1.0.0),
+not tracked in the source repository.
+
 ## The Mathematics
 
 For parallel lines separated by distance $d$ and a needle of length
